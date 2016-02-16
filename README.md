@@ -1,6 +1,6 @@
 # audio-sculptures
 
-This repository contains Python scripts for generating 3D models that represent audio information. These models can then be fabricated into objects.
+This repository contains Python scripts for generating 3D models that represent audio information. These models can be fabricated into objects.
 
 Many people before me have worked on code that generates 3D models from audio. Below are some projects I've found, in no particular order:
 
@@ -17,7 +17,16 @@ So why did I feel the need to write these scripts? Basically, while each of the 
 - ...in Python...
 - ...that takes an audio file and generate a more or less 3D printer-ready STL file in only one step...
 - ...while preserving an accurate representation of the sonic information, so the object should be able to be "played back" to produce (a hopelessly downsampled and bit-reduced version of) the same audio.
- 
+
 I decided to produce this script iteratively. You can find an account of my attempts below.
 
-## Attempt 1: Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
+## Attempt 1: spectrobars
+### Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
+
+## Attempt 2: spectropie
+### Concentric Pie Graphs using [tangible](https://github.com/dbrgn/tangible)
+
+## Attempt 3: spectrosmooth
+### Smooth Concentric Pie Graphs using [numpystl](https://github.com/WoLpH/numpy-stl)
+
+Coming soon...
