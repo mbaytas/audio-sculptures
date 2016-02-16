@@ -20,4 +20,4 @@ So why did I feel the need to write these scripts? Basically, while each of the 
  
 I decided to produce this script iteratively. You can find an account of my attempts below.
 
-## Attempt 1: Rectangular Bar Graph using [dbrgn/tangible](dbrgn/tangible)
+## Attempt 1: Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
