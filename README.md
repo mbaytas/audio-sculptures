@@ -23,14 +23,27 @@ I decided to produce this script iteratively. You can find an account of my atte
 ## Attempt 1: spectrobars
 ### Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
 
+The `spectrobars` script reads a WAV file, computes a spectrogram, and generates a model of the bar graph that represents the spectrogram.
+
+The output file is a SCAD file that can be compiled into an STL using [OpenSCAD](http://www.openscad.org/).
+
 #### To Do
 
-- This script generates a SCAD file, rather than the 3D printer-ready STL file. I can then convert this file into an STL using OpenSCAD. However I'd like to generate an STL in one step.
+- Read MP3 etc. along with WAV
+- Generate STL in one step, rather than SCAD
+- Make concentric rings like [Microsonic Landscapes](http://www.realitat.com/microsonic/)
 
 ## Attempt 2: spectropie
 ### Concentric Pie Graphs using [tangible](https://github.com/dbrgn/tangible)
 
-Coming soon...
+`spectropie` reads an audio file, computes its spectrogram, and generates a model of the spectrogram in the shape of concentric ring pie graphs.
+
+The output file is still a SCAD file that can be compiled into an STL using [OpenSCAD](http://www.openscad.org/).
+
+#### To Do
+
+- Read MP3 etc. along with WAV
+- Generate STL in one step, rather than SCAD
 
 ## Attempt 3: spectrosmooth
 ### Smooth Concentric Pie Graphs using [numpystl](https://github.com/WoLpH/numpy-stl)
