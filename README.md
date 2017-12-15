@@ -20,6 +20,8 @@ While each of the above projects is awesome in its own way, I wanted to have:
 
 I decided to produce this script iteratively. You can find an account of my attempts below.
 
+Contributions are welcome.
+
 ## Attempt 1: spectrobars
 ### Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
 
