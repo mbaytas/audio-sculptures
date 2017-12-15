@@ -23,7 +23,7 @@ I decided to produce this script iteratively. You can find an account of my atte
 ## Attempt 1: spectrobars
 ### Rectangular Bar Graph using [tangible](https://github.com/dbrgn/tangible)
 
-![](img/spectrobars.png)
+![](img/bars.png)
 
 The `spectrobars` script reads a WAV file, computes a spectrogram, and generates a model of the bar graph that represents the spectrogram.
 
@@ -38,7 +38,7 @@ The output file is a SCAD file that can be compiled into an STL using [OpenSCAD]
 ## Attempt 2: spectropie
 ### Concentric Pie Graphs using [tangible](https://github.com/dbrgn/tangible)
 
-![](img/spectropie.png)
+![](img/pie.png)
 
 `spectropie` reads an audio file, computes its spectrogram, and generates a model of the spectrogram in the shape of concentric ring pie graphs.
 
