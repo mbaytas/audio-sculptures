@@ -2,7 +2,7 @@
 
 This repository contains Python scripts for generating 3D models that represent audio information. These models can then be fabricated into objects.
 
-Many people before me have worked on code that generates 3D models from audio. Below are some projects I've found, in no particular order:
+Many people before me have worked on code that generates 3D models from audio. Below are some things I've found, in no particular order:
 
 - [Reify](http://www.reify.nyc/)
 - Andy Huntington's [Cylinder](http://extraversion.co.uk/2003/cylinder/)
