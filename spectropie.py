@@ -1,5 +1,4 @@
-# fuc wave, move to pydub
-# this shit takes too long
+# wave is taking too long, move to pydub
 
 import wave
 from math import log
