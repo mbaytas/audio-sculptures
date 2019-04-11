@@ -46,6 +46,17 @@ The output file is a SCAD file that can be compiled into an STL using [OpenSCAD]
 
 The output file is still a SCAD file that can be compiled into an STL using [OpenSCAD](http://www.openscad.org/).
 
+#### Some Results
+
+<table>
+<tr>
+<td><img src="img/photo1.jpg"></td>
+<td><img src="img/photo2.jpg"></td>
+<td><img src="img/photo3.jpg"></td>
+<td><img src="img/photo4.jpg"></td>
+</tr>
+</table>
+
 #### To Do
 
 - Read MP3 etc. along with WAV
